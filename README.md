@@ -163,8 +163,23 @@ gradle 프로젝트 생성 groupid : com.jojodu.influen , Artifectid : intellij-
 ### git & github
 ####
 * git
-> 1.git view on : alt + 9
-> 2.git option popup : alt + `(tab 위에 버튼)
-> 3.git history : alt + `(tab 위에 버튼) => 4
-> 4.Branch : alt + `(tab 위에 버튼) => 7
-> 5.commit : ctrl + k
+> 1.git view on : alt + 9   
+> 2.git option popup : alt + `(tab 위에 버튼)   
+> 3.git history : alt + `(tab 위에 버튼) => 4   
+> 4.Branch : alt + `(tab 위에 버튼) => 7   
+> 5.commit : ctrl + k   
+> 6.push : ctrl + shift + k   
+> 7.pull은 별도 단축키가 없다. : ctrl + shift + a 로 pull 옵션을 찾는다.
+> 
+
+* github
+> 1.Github 연동하기 : ctrl + shift + a => share github
+> 2.github clone : main에서 check out from version control 선택
+> 
+### plugin
+####
+* plugin
+> 1.플러그인 설치   
+> 2.추천 플러그인
+> 
+
