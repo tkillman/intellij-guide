@@ -1,5 +1,9 @@
 # markdown
-0. 줄바꿈 (문장 마지막 스페이스 3번)
+0. 줄바꿈
+```
+   (문장 마지막 스페이스 3번)
+   <br/>
+```
 
 ***
 1. 글씨크기
@@ -105,4 +109,48 @@ gradle 프로젝트 생성 groupid : com.jojodu.influen , Artifectid : intellij-
 > 3.멀티 포커스 : ctrl + ctrl + 아래   
 > 4.오류 라인으로 자동 포커스 : F2
 
-### 
+###검색
+####
+* 검색텍스트
+> 1.현재 파일에서 검색 : ctrl + f
+> 2.현재 파일에서 교체 : ctrl + r
+> 3.전체에서 검색 : ctrl + shift + f
+> 4.전체에서 교체 : ctrl + shift + r
+> 5.정규표현식으로 검색, 교체 : ctrl + shift + regex 클릭
+
+* 검색 기타
+> 1.파일검색 : shift + ctrl + n
+> 2.메소드 검색 : shift + ctrl + alt + n
+> 3.Action 검색 : shift + ctrl + a
+> 4.최근 열었던 파일 목록 보기 : ctrl + e
+> 5.최근 수정한 파일 목록 보기 : ctrl + shift + e
+
+### * 자동완성
+####
+* 자동완성
+> 1.스마트 자동완성 : ctrl + shift + space   
+> 2.스태틱 메소드 자동완성 : ctrl + space 두번   
+> 3.Getter/Setter/생성자 자동완성 : alt + insert   
+> 4.Overrider method 자동완성 : ctrl + i   
+
+* Live Template
+> 1.Live Template 소개 : ctrl + j    
+> 2.Live Template 추가하기
+> > a.ctrl + shift + a 에서 Live Template 입력 후 선택
+
+### * 리팩토링
+####
+* 리팩토링 Extract
+> 1.변수 추출하기  : ctrl + alt + v   
+> 2.파라미터 추출하기 : ctrl + alt + p   
+> 3.메소드 추출하기 : : ctrl + alt + m   
+> 4.이너클래스 추출하기 : F6
+
+* 리팩토링 기타
+> 1.이름 일괄 변경하기 : shift + f6   
+> 2.타입 일괄 변경하기 : ctrl + shift + f6   
+> 3.Import 정리하기 : ctrl + alt + o,   
+>> shift + ctrl + a optimize import on 검색 후
+>> on 하게되면 자동 시 자동으로 import 제어   
+> 
+> 4.코드 자동 정렬하기 : ctrl + alt + l
