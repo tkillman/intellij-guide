@@ -84,10 +84,10 @@ gradle 프로젝트 생성 groupid : com.jojodu.influen , Artifectid : intellij-
 * 라인 수정하기
 >1.라인복제하기 : ctrl + D   
 >2.라인삭제하기 : ctrl + Y   
->3.문자열라인합치기 : ctrl + shift + j
->4.라인단위로 옮기기(문법 내 이동가능) : ctrl + shift + up/down 
->5.라인단위로 옮기기(문법과 상관없이 옮기기) : alt + shift + up/down
->6.element단위로 옮기기 : ctrl + alt + shift + left/right
+>3.문자열라인합치기 : ctrl + shift + j   
+>4.라인단위로 옮기기(문법 내 이동가능) : ctrl + shift + up/down  
+>5.라인단위로 옮기기(문법과 상관없이 옮기기) : alt + shift + up/down   
+>6.element단위로 옮기기 : ctrl + alt + shift + left/right   
 
 * 코드 즉시보기
 >1.인자값 즉시보기 : ctrl + p   
@@ -97,11 +97,11 @@ gradle 프로젝트 생성 groupid : com.jojodu.influen , Artifectid : intellij-
 ### 포커스
 ####
 * 포커스 에디터
->1.단어별 이동 : ctrl + left/right
->2.단어별 선택 : ctrl + shift + left/right
->3.라인 첫/끝이동 : Home, End
->4.라인 전체선택 : Shift + Home,End
->5.Page up/down : PageUp/PageDown
+>1.단어별 이동 : ctrl + left/right   
+>2.단어별 선택 : ctrl + shift + left/right   
+>3.라인 첫/끝이동 : Home, End   
+>4.라인 전체선택 : Shift + Home,End   
+>5.Page up/down : PageUp/PageDown   
 
 * 포커스 특수키
 >1.포커스범위 한 단계식 늘리기 : ctrl + w   
