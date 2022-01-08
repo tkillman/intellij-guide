@@ -154,3 +154,17 @@ gradle 프로젝트 생성 groupid : com.jojodu.influen , Artifectid : intellij-
 >> on 하게되면 자동 시 자동으로 import 제어   
 > 
 > 4.코드 자동 정렬하기 : ctrl + alt + l
+
+### 디버깅
+####
+* 디버깅
+
+
+### git & github
+####
+* git
+> 1.git view on : alt + 9
+> 2.git option popup : alt + `(tab 위에 버튼)
+> 3.git history : alt + `(tab 위에 버튼) => 4
+> 4.Branch : alt + `(tab 위에 버튼) => 7
+> 5.commit : ctrl + k

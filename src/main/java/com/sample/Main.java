@@ -18,5 +18,7 @@ public class Main {
         Hello hello = new Hello("김동규", "안녕하세요");
 
         hello.sayHi();
+
+        // test commit
     }
 }
