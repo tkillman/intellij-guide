@@ -112,18 +112,18 @@ gradle 프로젝트 생성 groupid : com.jojodu.influen , Artifectid : intellij-
 ###검색
 ####
 * 검색텍스트
-> 1.현재 파일에서 검색 : ctrl + f
-> 2.현재 파일에서 교체 : ctrl + r
-> 3.전체에서 검색 : ctrl + shift + f
-> 4.전체에서 교체 : ctrl + shift + r
+> 1.현재 파일에서 검색 : ctrl + f   
+> 2.현재 파일에서 교체 : ctrl + r   
+> 3.전체에서 검색 : ctrl + shift + f   
+> 4.전체에서 교체 : ctrl + shift + r   
 > 5.정규표현식으로 검색, 교체 : ctrl + shift + regex 클릭
 
 * 검색 기타
-> 1.파일검색 : shift + ctrl + n
-> 2.메소드 검색 : shift + ctrl + alt + n
-> 3.Action 검색 : shift + ctrl + a
-> 4.최근 열었던 파일 목록 보기 : ctrl + e
-> 5.최근 수정한 파일 목록 보기 : ctrl + shift + e
+> 1.파일검색 : shift + ctrl + n   
+> 2.메소드 검색 : shift + ctrl + alt + n   
+> 3.Action 검색 : shift + ctrl + a   
+> 4.최근 열었던 파일 목록 보기 : ctrl + e   
+> 5.최근 수정한 파일 목록 보기 : ctrl + shift + e   
 
 ### * 자동완성
 ####
