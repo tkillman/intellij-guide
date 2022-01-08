@@ -88,3 +88,21 @@ gradle 프로젝트 생성 groupid : com.jojodu.influen , Artifectid : intellij-
 * 코드 즉시보기
 >1.인자값 즉시보기 : ctrl + p   
 >2.코드구현부 보기 (무료 : java, 유료 : javascript, css): shift + ctrl + i
+>3.Doc 즉시보기 : ctrl + q
+
+### 포커스
+####
+* 포커스 에디터
+>1.단어별 이동 : ctrl + left/right
+>2.단어별 선택 : ctrl + shift + left/right
+>3.라인 첫/끝이동 : Home, End
+>4.라인 전체선택 : Shift + Home,End
+>5.Page up/down : PageUp/PageDown
+
+* 포커스 특수키
+>1.포커스범위 한 단계식 늘리기 : ctrl + w   
+> 2.포커스 뒤로/앞으로 가기 : ctrl + alt + left/right   
+> 3.멀티 포커스 : ctrl + ctrl + 아래   
+> 4.오류 라인으로 자동 포커스 : F2
+
+### 

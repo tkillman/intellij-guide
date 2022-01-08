@@ -1,5 +1,7 @@
 package com.sample;
 
+import java.util.Optional;
+
 public class Hello {
 
     private String message;
@@ -13,5 +15,16 @@ public class Hello {
 
     public void sayHi(){
         System.out.println(this.message + this.addMessage);
+    }
+
+    public String strReturn (String str){
+        return str;
+    }
+    public void test (){
+        System.out.println(Optional.ofNullable(strReturn("hi")).orElseGet(()-> "aa"));
+    }
+    public void moveError (){
+        return;
+        // return "";
     }
 }
